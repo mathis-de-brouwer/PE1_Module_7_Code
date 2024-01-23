@@ -24,4 +24,4 @@ function createPerson(name, age) {
 let person = createPerson(`Sinterklaas`, 115);
 console.log(person.introduce());
 
-  process.exit();
+process.exit();
